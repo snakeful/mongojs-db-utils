@@ -1,2 +1,2 @@
-# mongojs-db-utils
-Database utils for MongoDB database.
+# Database Utils for MongoDB with mongojs
+Database utils for MongoDB with mongojs.
